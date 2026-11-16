@@ -2,6 +2,10 @@
 
 OpenVB Studio is an early, open-source Windows Forms IDE prototype inspired by classic Visual Basic. It is not a full VB6-compatible environment.
 
+## Screenshot
+
+![OpenVB Studio IDE showing the project explorer, classic-style toolbox, form designer, and properties window](docs/screenshots/openvb-studio.png)
+
 ## Requirements
 
 - Windows 10 or Windows 11, x64
